@@ -33,7 +33,7 @@
     "iab-vast-error": "^0.2.0",
     "iab-vast-model": "^1.0.0",
     "iab-vast-parser": "^1.0.2",
-    "node-fetch": "^2.2.0",
+    "node-fetch": "^2.2.1",
     "unfetch": "^4.0.1"
   },
   "devDependencies": {
